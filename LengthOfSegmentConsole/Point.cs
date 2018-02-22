@@ -10,12 +10,9 @@ namespace LengthOfSegmentConsole
     class Point
     {
         private double x1, y1, z1, x2, y2, z2;
+      
 
         
-        
-
-        
-
 
         public double CoordinateX1
         {get { return x1; }            set { x1 = value; }        }
